@@ -1,0 +1,19 @@
+    body {
+        background-color: hotpink;
+    }
+
+    h1 {
+        color: #0D0D0D;
+    }
+
+    .huomio {
+        color: #D7F205;
+    }
+
+    .ruskea {
+        color: #401201;
+    }
+
+    .kuva1 {
+        border-radius: 25%;
+    }
